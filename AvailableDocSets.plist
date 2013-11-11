@@ -49,9 +49,9 @@
 			<key>title</key>
 			<string>Scipy</string>
 			<key>name</key>
-			<string>SciPy-v0-12-docset</string>
+			<string>SciPy-v0-12.docset</string>
 			<key>URL</key>
-			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/SciPy-v0-12-docset.zip</string>
+			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/SciPy-v0-12.docset.zip</string>
 		</dict>
 		<dict>
 			<key>title</key>
