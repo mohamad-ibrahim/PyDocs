@@ -29,6 +29,14 @@
 			<key>URL</key>
 			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/django-docs-1.6.docset.zip</string>
 		</dict>
+		<dict>
+			<key>title</key>
+			<string>Flask</string>
+			<key>name</key>
+			<string>flask-docs.docset</string>
+			<key>URL</key>
+			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/flask-docs.docset.zip</string>
+		</dict>
 	</array>
 </dict>
 </plist>
