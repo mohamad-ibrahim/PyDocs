@@ -49,25 +49,25 @@
 			<key>title</key>
 			<string>Scipy</string>
 			<key>name</key>
-			<string>SciPy-v0-12.docset</string>
+			<string>SciPy-docs.docset</string>
 			<key>URL</key>
-			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/SciPy-v0-12.docset.zip</string>
+			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/SciPy-docs.docset.zip</string>
 		</dict>
 		<dict>
 			<key>title</key>
 			<string>Scikitlearn</string>
 			<key>name</key>
-			<string>scikitlearn.docset</string>
+			<string>scikitlearn-docs.docset</string>
 			<key>URL</key>
-			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/scikitlearn.docset.zip</string>
+			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/scikitlearn-docs.docset.zip</string>
 		</dict>
 		<dict>
 			<key>title</key>
 			<string>Pandas</string>
 			<key>name</key>
-			<string>pandas-v0-11-1.docset</string>
+			<string>pandas-docs.docset</string>
 			<key>URL</key>
-			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/pandas-v0-11-1.docset.zip</string>
+			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/pandas-docs.docset.zip</string>
 		</dict>
 
 	</array>
