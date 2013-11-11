@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DocSets</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Python 3.3</string>
+			<key>name</key>
+			<string>python-3.3.2-docs-html.docset</string>
+			<key>URL</key>
+			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/python-3.3.2-docs-html.docset.zip</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Python 2.7</string>
+			<key>name</key>
+			<string>python-2.7.3-docs-html.docset</string>
+			<key>URL</key>
+			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/python-2.7.3-docs-html.docset.zip</string>
+		</dict>
+
+		<dict>
+			<key>title</key>
+			<string>Django 1.6</string>
+			<key>name</key>
+			<string>django-docs-1.6.docset</string>
+			<key>URL</key>
+			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/django-docs-1.6.docset.zip</string>
+		</dict>
+	</array>
+</dict>
+</plist>
