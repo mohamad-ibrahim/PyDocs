@@ -37,6 +37,39 @@
 			<key>URL</key>
 			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/flask-docs.docset.zip</string>
 		</dict>
+		<dict>
+			<key>title</key>
+			<string>Numpy</string>
+			<key>name</key>
+			<string>numpy1.7.docset</string>
+			<key>URL</key>
+			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/numpy1.7.docset.zip</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Scipy</string>
+			<key>name</key>
+			<string>SciPy v0.12.docset</string>
+			<key>URL</key>
+			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/SciPy v0.12.docset.zip</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Scikitlearn</string>
+			<key>name</key>
+			<string>scikitlearn.docset</string>
+			<key>URL</key>
+			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/scikitlearn.docset.zip</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Pandas</string>
+			<key>name</key>
+			<string>pandas v0.11.1.docset</string>
+			<key>URL</key>
+			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/pandas v0.11.1.docset.zip</string>
+		</dict>
+
 	</array>
 </dict>
 </plist>
