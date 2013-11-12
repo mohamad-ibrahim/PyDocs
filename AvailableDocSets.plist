@@ -41,9 +41,9 @@
 			<key>title</key>
 			<string>Numpy</string>
 			<key>name</key>
-			<string>numpy1.7.docset</string>
+			<string>nump-html.docset</string>
 			<key>URL</key>
-			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/numpy1.7.docset.zip</string>
+			<string>https://googledrive.com/host/0B-2OwL-pFXT_ZnhvTjd3cDdGZWM/numpy-html.zip</string>
 		</dict>
 		<dict>
 			<key>title</key>
@@ -59,7 +59,7 @@
 			<key>name</key>
 			<string>scikitlearn-docs.docset</string>
 			<key>URL</key>
-			<string>https://github.com/mohamad-ibrahim/PyDocs/raw/master/scikitlearn-docs.docset.zip</string>
+			<string>https://googledrive.com/host/0B-2OwL-pFXT_ZnhvTjd3cDdGZWM/scikitlearn-docs.docset.zip</string>
 		</dict>
 		<dict>
 			<key>title</key>
